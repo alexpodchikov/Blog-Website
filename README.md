@@ -6,4 +6,4 @@
 
 > Using EJS to set data from Server to Client side.
 
-The Project: https://alexpodchikov-to-do-list.herokuapp.com/
+The Project: https://alexp-daily-journal.herokuapp.com/
